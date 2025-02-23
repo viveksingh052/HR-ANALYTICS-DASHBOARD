@@ -39,13 +39,17 @@ This HR Analytics Dashboard is built to help organizations:
 
 
 
+
 🛠 Technologies Used
+
 
 Power BI – Data visualization & dashboard creation
 
 Excel / CSV – Data storage and processing
 
 DAX (Data Analysis Expressions) – Custom calculations in Power BI
+
+
 
 
 📖 How to Use This Project
