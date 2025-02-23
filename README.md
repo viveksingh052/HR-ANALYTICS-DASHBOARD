@@ -62,3 +62,10 @@ DAX (Data Analysis Expressions) – Custom calculations in Power BI
 3️⃣ Explore insights using filters and visualizations
 
 4️⃣ Customize & modify based on your organization's needs
+
+
+
+![Screenshot 2025-02-23 125220](https://github.com/user-attachments/assets/777f4bd2-c6ba-4f67-858d-2a756a6c38f5)
+
+
+
