@@ -69,3 +69,11 @@ DAX (Data Analysis Expressions) – Custom calculations in Power BI
 
 
 
+
+
+
+
+https://github.com/user-attachments/assets/c0a00d21-cb6a-44ce-a829-b268d0e7efa3
+
+
+
